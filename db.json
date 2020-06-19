@@ -7,6 +7,14 @@
         "team":"Engineering",
         "waycolor":"red",
         "nodecolor":"blue"
+      },
+      {
+        "id": 2,
+        "username": "3636pacers",
+        "uid":10341424,
+        "team":"Engineering",
+        "waycolor":"pink",
+        "nodecolor":"purple"
       }
     ],
     "profile": {
