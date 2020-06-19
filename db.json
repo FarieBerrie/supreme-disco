@@ -4,8 +4,9 @@
         "id": 1,
         "username": "FarieBerrie",
         "uid":9595151,
-        "team":"Sneffles",
-        "color":"red"
+        "team":"Engineering",
+        "waycolor":"red",
+        "nodecolor":"blue"
       }
     ],
     "profile": {
